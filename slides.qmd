@@ -1,0 +1,155 @@
+---
+title: "Die Geschichte der Berliner Philharmoniker & Karajan-Akademie"
+author:
+    - name: Alonso M. Cisneros
+    - name: Kai 
+format:
+    revealjs:
+        theme: serif
+title-slide-attributes: 
+  data-background-image: img/philarmonie_aussehen.webp
+  data-background-opacity: 75%
+output-file: index.html
+---
+
+# {background-color="black" background-video="img/bruckner_1440_no9.mp4" background-video-loop="true" background-video-muted="true"}
+
+- Eines der bekanntesten Ochester der Welt
+- Wie begann ihre Geschichte?
+
+:::{.notes}
+Die Berliner Philharmoniker sind eines der führenden Orchester weltweit. Ihr Ruf wurde
+über Jahrzehnte durch exzellente Musiker und Dirigenten geprägt. Doch wie begann ihre
+Geschichte? Lassen Sie uns einen Blick darauf werfen.
+:::
+
+# Die Gründung (1882) {background-image="img/bph_1.webp" background-opacity="70%" background-color="#1d1f1a"}
+
+- Gegründet 1882 von 54 Musikern
+- Trennung von einem anderen Orchester wegen schlechter Arbeitsbedingungen
+- Erster Dirigent: Benjamin Bilse
+
+:::{.notes}
+Die Berliner Philharmoniker wurden 1882 gegründet. Eine Gruppe von 54 Musikern trennte
+sich von einem anderen Orchester, weil sie bessere Arbeitsbedingungen wollten. Der erste
+Dirigent war Benjamin Bilse. Diese Entscheidung legte den Grundstein für ein unabhängiges,
+selbstverwaltetes Ensemble.
+:::
+
+
+# Entwicklung im 20. Jahrhundert {background-image="img/furtwraengler.webp" background-size="50%" background-color="#1d1f1a" background-position="left"}
+
+- Wilhelm Furtwängler (ab 1922) prägte den Klang
+- Zweiter Weltkrieg brachte schwere Zeiten
+- Philharmonie wurde 1944 zerstört
+
+:::{.notes}
+In den folgenden Jahrzehnten wurde das Orchester immer bekannter. Besonders wichtig war
+Wilhelm Furtwängler, der das Orchester ab 1922 leitete. Seine Arbeit prägte den
+einzigartigen Klang des Ensembles. Doch der Zweite Weltkrieg brachte schwere Zeiten. Die
+Philharmonie wurde 1944 durch Bombenangriffe zerstört, und das Orchester musste
+improvisieren, um weiterzuspielen.
+:::
+
+
+# Wiederaufbau und Karajan {background-image="img/karajan_flipped.png" background-position="left" background-opacity="75%"}
+
+- Nach dem Krieg Wiederaufbau des Orchesters
+- 1963: Eröffnung der neuen Philharmonie
+- Herbert von Karajan (ab 1955) machte das Orchester weltberühmt
+- Zahlreiche legendäre Aufnahmen
+
+:::{.notes}
+Nach dem Krieg wurde das Orchester neu aufgebaut. 1963 wurde die neue Philharmonie in
+Berlin eröffnet, ein Meisterwerk der Architektur von Hans Scharoun. Herbert von Karajan
+wurde 1955 Chefdirigent und machte das Orchester weltberühmt. Unter seiner Leitung
+entstanden zahlreiche legendäre Aufnahmen, die noch heute als Maßstab gelten.
+:::
+
+## Gründung der Karajan Akademie {background-color="white" background-image="img/panorama_karajan.webp" background-size="100%" background-opacity="0.5" background-position="bottom center"}
+
+- 1972 von Karajan gegründet unter dem ursprünglichen Namen Orchester-Akademie der
+  Berliner Philharmoniker
+
+- Gründung in einer Hochphase der Zusammenarbeit zwischen Karajan und dem Orchester.
+
+- Zukunftssicherung des Orchesters über Karajans Amtszeit hinaus.
+
+- Förderung und Anziehungskraft der Musikstadt Berlin.
+
+## Ausbildungsstruktur der Akademie {background-image="img/panorama_karajan.webp" background-size="100%" background-opacity="0.5" background-position="bottom center"}
+
+- Aufnahme außergewöhnlich begabter Musiker für ca. drei Jahre
+
+- Unterricht durch Konzertmeister und Stimmführer der Philharmoniker
+
+- Praxis durch regelmäßige Mitwirkung an Konzerten und kammermusikalische Betätigung.
+
+## Andere wichtige akademische Institutionen {.center}
+
+::: {.panel-tabset .center}
+### UdK Berlin
+
+- Universität der Künste Berlin
+- Größte Kunsthochschule Deutschlands mit einer renommierten Fakultät für Musik
+(Interpretation, Komposition, Musikpädagogik)
+
+![](img/udk.svg){height="10%"}
+
+### HfM Hanns Eisler
+
+- Hochschule für Musik Hanns Eisler 
+- Spezialisiert auf Instrumental- und Vokalmusik mit starker Praxisorientierung
+
+![](img/HfM.svg){height="10%"}
+
+### HU Berlin
+
+- Institut für Musikwissenschaft an der Humboldt-Universität zu Berlin
+- Forschungsschwerpunkte: Historische Musikwissenschaft, Systematische Musikwissenschaft,
+Ethnomusikologie
+
+![](img/HU.svg){height="10%"}
+
+### FU Berlin
+
+- Musik, Sound, Performance an der Freie Universität Berlin 
+- eine interdisziplinäre Perspektive auf Musik und Klang und verbindet historische,
+theoretische und praxisnahe Ansätze aus den Musik- und Theaterwissenschaften sowie den
+Media, Performance, Gender und Postcolonial Studies.
+
+![](img/FUB.svg){height="10%"}
+
+:::
+
+
+# Die Berliner Philharmoniker heute {background-image="img/petrenko.jpg" background-size="100%" background-color="black" background-position="bottom center"}
+
+- Nach Karajan: Claudio Abbado, Simon Rattle
+- Seit 2019: Kirill Petrenko als Chefdirigent
+- Bekannt für höchste Qualität und innovative Projekte
+- Digital Concert Hall als Meilenstein
+
+:::{.notes}
+Nach Karajan folgten andere große Dirigenten wie Claudio Abbado und Simon Rattle. Jeder
+von ihnen brachte eine neue musikalische Vision mit sich. Heute leitet Kirill Petrenko das
+Orchester. Die Berliner Philharmoniker sind für ihre musikalische Qualität und innovativen
+Projekte bekannt. Ein Beispiel ist die Digital Concert Hall, die es Musikliebhabern
+weltweit ermöglicht, Konzerte in höchster Qualität zu erleben.
+:::
+
+# Fazit
+
+- Eine lange, bewegte Geschichte
+- Überwindung von Krisen
+- Symbol für musikalische Exzellenz
+- Habt Ihr schon mal besucht?
+    - wir sehen uns beim Lunchkonzert!
+
+:::{.notes}
+Die Berliner Philharmoniker haben eine lange und bewegte Geschichte. Sie haben Krisen
+überwunden und sich immer weiterentwickelt. Sie bleiben ein Symbol für musikalische
+Exzellenz und stehen für die höchste Qualität in der klassischen Musik. Die Philharmonie
+gründete ihr eigenes Musiklabel, um ihre Aufnahmen zu veröffentlichen
+:::
+
